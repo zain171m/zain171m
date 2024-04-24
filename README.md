@@ -2,7 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Blockchain+Developer;Information+Security+Student+at+NUST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Blockchain+Developer;Security+Student+at+NUST)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Solidity
 - 🥅 2024 Goals: Learn more about web3 and open source contribution
